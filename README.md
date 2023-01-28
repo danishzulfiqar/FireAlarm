@@ -11,4 +11,9 @@ A DLD project ie Logic Based Fire Alarm System Equiped with buzzers
 7. BREADBOARD
 8. 5V POWER SUPPLY
 
+## Circuit Diagram
+
+![image](https://user-images.githubusercontent.com/102870087/215291569-c311ad6f-3ec8-4527-93ab-dd9652b8a659.png)
+
+
 
