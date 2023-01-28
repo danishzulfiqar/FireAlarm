@@ -1,7 +1,7 @@
 # FIRE ALARM SYSTEM
 A DLD project ie Logic Based Fire Alarm System Equiped with buzzers
 
-##Components
+## Components
 1. 10K THERMISTOR
 2. LM358 OPERATIONAL AMPLIFIER
 3. 4.7K RESISTOR
